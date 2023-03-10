@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 054e2c63df88a7d45ad81433853f8640
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173259
+  packageName: Character Controller Smooth
+  packageVersion: 1.2.1
+  assetPath: Assets/PhysicalCharacterController/Materials/Red.mat
+  uploadId: 417488

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4995aabaa7975234d9ce4b17cc800c7c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173259
+  packageName: Character Controller Smooth
+  packageVersion: 1.2.1
+  assetPath: Assets/PhysicalCharacterController/Prefabs/Player.prefab
+  uploadId: 417488

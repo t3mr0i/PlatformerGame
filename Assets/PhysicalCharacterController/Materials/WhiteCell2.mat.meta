@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e76916b2f26f370498ffe7cea22415e0
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173259
+  packageName: Character Controller Smooth
+  packageVersion: 1.2.1
+  assetPath: Assets/PhysicalCharacterController/Materials/WhiteCell2.mat
+  uploadId: 417488

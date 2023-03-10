@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8c21ca4cf055064da8505bec5d0cc8e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173259
+  packageName: Character Controller Smooth
+  packageVersion: 1.2.1
+  assetPath: Assets/PhysicalCharacterController/Materials/Player.mat
+  uploadId: 417488

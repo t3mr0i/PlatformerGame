@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 169b65a9e43acf344aec5c3a21941eac
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173259
+  packageName: Character Controller Smooth
+  packageVersion: 1.2.1
+  assetPath: Assets/PhysicalCharacterController/Materials/Green.mat
+  uploadId: 417488

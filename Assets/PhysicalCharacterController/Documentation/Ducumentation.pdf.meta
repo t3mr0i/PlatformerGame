@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 03f1db5610fc41e40afaef6ce9491180
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173259
+  packageName: Character Controller Smooth
+  packageVersion: 1.2.1
+  assetPath: Assets/PhysicalCharacterController/Documentation/Ducumentation.pdf
+  uploadId: 417488

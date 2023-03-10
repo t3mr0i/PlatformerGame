@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8a73b51506a672b4e9c4e15921908902
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 173259
+  packageName: Character Controller Smooth
+  packageVersion: 1.2.1
+  assetPath: Assets/PhysicalCharacterController/Demo Scenes/demo Scene.unity
+  uploadId: 417488
